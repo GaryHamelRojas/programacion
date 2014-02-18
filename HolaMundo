@@ -1,0 +1,18 @@
+// HolaMundo.cpp : Defines the entry point for the console application.
+// Autor:Gary Hamel R.
+// Fecha:18-02-2014
+
+#include "stdafx.h"
+#include <iostream>
+#include "conio.h"
+
+using namespace std;
+
+
+int main() 
+{
+	cout <<"Gary Hamel Rojas\n";
+	cout <<"el mas pintudo de todos!!!!";
+    getch ();
+    return 0;
+}
